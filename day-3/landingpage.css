@@ -1,0 +1,29 @@
+/* * { background-color: rgba(255,0,0,.2); }
+* * { background-color: rgba(0,255,0,.2); }
+* * * { background-color: rgba(0,0,255,.2); }
+* * * * { background-color: rgba(255,0,255,.2); }
+* * * * * { background-color: rgba(0,255,255,.2); }
+* * * * * * { background-color: rgba(255,255,0,.2); }
+* * * * * * * { background-color: rgba(255,0,0,.2); }
+* * * * * * * * { background-color: rgba(0,255,0,.2); }
+* * * * * * * * * { background-color: rgba(0,0,255,.2); } */
+.page {
+  background-color: grey;
+  color: #fefefd;
+}
+
+.stage {
+  background-color: #113b63;
+}
+
+.left-side {
+
+}
+
+.right-side {
+
+}
+
+.text-highlight {
+  color: #f89f5a;
+}

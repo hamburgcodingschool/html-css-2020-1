@@ -65,6 +65,9 @@ Start: 14.01.2020
     - CSS hack: https://dev.to/gajus/my-favorite-css-hack-32g3
   - [ ] Recap: Bootstrap Grid https://getbootstrap.com/docs/4.0/layout/grid/
   - [ ] CSS Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  - [ ] Responsiveness
+    - Dev Tools
+    - (Media Queries)
 - [ ] Praxis
   - [ ] Stage like on [Landing Page](https://www.elegantthemes.com/blog/wp-content/uploads/2018/07/car-rental-landing-page.jpg)
   - [ ] Header-Leiste (ähnlich wie auf GitHub) (Hausaufgabe)

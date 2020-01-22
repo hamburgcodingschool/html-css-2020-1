@@ -62,6 +62,7 @@ Start: 14.01.2020
 - [ ] Theorie
   - [ ] Box Model
     - Page width, columns: https://unsemantic.com/demo-responsive
+    - CSS hack: https://dev.to/gajus/my-favorite-css-hack-32g3
 - [ ] Praxis
   - [ ] Stage like on [Landing Page](https://www.elegantthemes.com/blog/wp-content/uploads/2018/07/car-rental-landing-page.jpg)
   - [ ] Header-Leiste (ähnlich wie auf GitHub) (Hausaufgabe)

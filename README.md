@@ -68,6 +68,7 @@ Start: 14.01.2020
   - [ ] Responsiveness
     - Dev Tools
     - (Media Queries)
+  - [ ] Icons https://fontawesome.com/
 - [ ] Praxis
   - [ ] Stage like on [Landing Page](https://www.elegantthemes.com/blog/wp-content/uploads/2018/07/car-rental-landing-page.jpg)
   - [ ] Header-Leiste (ähnlich wie auf GitHub) (Hausaufgabe)

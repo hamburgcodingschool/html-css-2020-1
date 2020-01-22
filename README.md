@@ -59,9 +59,11 @@ Start: 14.01.2020
 
 - [ ] Alternativen Termin für 6.2. finden
 - [ ] Hausaufgabe: *Kontaktformular stylen*
-- [ ] Thorie
+- [ ] Theorie
   - [ ] Box Model
+    - Page width, columns: https://unsemantic.com/demo-responsive
 - [ ] Praxis
+  - [ ] Stage like on [Landing Page](https://www.elegantthemes.com/blog/wp-content/uploads/2018/07/car-rental-landing-page.jpg)
   - [ ] Header-Leiste (ähnlich wie auf GitHub) (Hausaufgabe)
 - [ ] Retrospective 
 

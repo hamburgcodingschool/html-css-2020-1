@@ -71,7 +71,6 @@ Start: 14.01.2020
   - [ ] Icons https://fontawesome.com/
   - [ ] Images
     - `brew install imagemagick`
-    - 
 - [ ] Praxis
   - [ ] Stage like on [Landing Page](https://www.elegantthemes.com/blog/wp-content/uploads/2018/07/car-rental-landing-page.jpg)
   - [ ] Header-Leiste (ähnlich wie auf GitHub) (Hausaufgabe)
@@ -82,8 +81,8 @@ Start: 14.01.2020
 - [ ] Skill-Matrix aktualisieren
 - [ ] Mid-term Feedback
 - [ ] Theorie
-  - [ ] CSS Wertigkeiten
-  - [ ] Flex
+  - [ ] Image preparation: https://picresize.com/
+  - [ ] (Flex)
     - [ ] https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
 - [ ] Hausaufgabe: HTTP Basics
   * [ ] What is HTTP? https://www.youtube.com/watch?v=wW2A5SZ3GkI&t=50s
@@ -97,6 +96,7 @@ Start: 14.01.2020
   - [ ] FRAGEN ZU HTTP...
   - [ ] Wie funktionieren Cookies?
 - [ ] Theorie
+  - [ ] CSS Wertigkeiten
   - [ ] position: absolute
   - [ ] Pseudo-Selektoren :after und :before
 - [ ] Praxis

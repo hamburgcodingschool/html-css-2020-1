@@ -12,19 +12,26 @@
 }
 
 .stage {
-  background: url("img/jeep.jpg");
+  background: #113860;
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 400px;
+  height: 800px;
   position: relative;
   color: #fefefd;
+}
+
+@media (min-width: 768px) {
+  .stage {
+    background: url("img/jeep.jpg");
+    height: 400px;
+  }
 }
 
 .color-overlay {
   width: 100%;
   height: 100%;
-  background: #0000ff88;
-  /* opacity: 0.7; */
+  background: #113860;
+  opacity: 0.7;
   position: absolute;
 }
 
@@ -33,9 +40,31 @@
 }
 
 .right-side {
+  position: relative;
+}
 
+.red-car {
+  position: absolute;
+  top: -100px;
+  left: 50px;
+}
+.red-car img {
+  width: 300px;
+}
+@media (min-width: 992px) {
+  .red-car img {
+    width: 500px;
+  }
 }
 
 .text-highlight {
   color: #f89f5a;
+}
+
+@media (min-width: 992px) {
+  .red-car {
+    position: absolute;
+    top: 100px;
+    left: -50px;
+  }
 }

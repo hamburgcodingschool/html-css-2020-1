@@ -92,18 +92,17 @@ Start: 14.01.2020
 
 ## Lesson #5
 
-- [ ] Quiz
-  - [ ] FRAGEN ZU HTTP...
-  - [ ] Wie funktionieren Cookies?
-- [ ] Theorie
-  - [ ] CSS Wertigkeiten
-  - [ ] position: absolute
-  - [ ] Pseudo-Selektoren :after und :before
-- [ ] Praxis
-  - [ ] *Popup* (über den Seiteninhaltend liegend)
-    - [ ] Schließen bei Klick auf den Hintergrund (Hausaufgabe)
-    - [ ] Inhalt scrollbar machen (Hausaufgabe)
-    - [ ] Animation (extra) (Hausaufgabe)
+- [ ] CSS Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- [ ] Fonts
+  - W3Schools: https://www.w3schools.com/css/css_font.asp
+  - Web Save Fonts: https://www.w3schools.com/cssref/css_websafe_fonts.asp
+  - Google Fonts: https://fonts.google.com/
+- [ ] CSS Pseudo-Elements: 
+  - ::after
+  - ::before
+  - ::first-letter
+  - ::first-line
+- [ ] (skew)
 
 ## Lesson #6
 

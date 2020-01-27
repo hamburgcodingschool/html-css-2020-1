@@ -103,6 +103,7 @@ Start: 14.01.2020
   - ::first-letter
   - ::first-line
 - [ ] (skew)
+- [ ] (BEM naming convention) http://getbem.com/naming/
 
 ## Lesson #6
 

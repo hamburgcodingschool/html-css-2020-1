@@ -103,14 +103,18 @@ Start: 14.01.2020
   - ::first-letter
   - ::first-line
 - [ ] (skew)
-- [ ] (BEM naming convention) http://getbem.com/naming/
 
 ## Lesson #6
 
-- [ ] Zertifikate
-- [ ] Skill-Matrix aktualisieren
-- [ ] Praxis
-  - [ ] *Mobiles Menü zum ausklappen* (Hausaufgabe)
+- [ ] Forms
+  - sending form data https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data
+  - HTTP(S) GET and POST
+  - Formspark: https://www.formspark.io/
+- [ ] BEM naming convention http://getbem.com/naming/
+
+- [ ] Skill-Matrix https://docs.google.com/document/d/1WvgV674ErsA9A2hug6I86vne7Mc6-LhfjM-HRlbEh9M/edit?usp=sharing
+- [ ] Q&A & freie Aufgaben
+- [ ] Evaluation + Zertifikate
 
 ## Lesson #7 (advanced)
 
